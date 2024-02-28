@@ -32,8 +32,9 @@ Program to print the text “Hello World”.
 Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
-
-###ACTIVITY MAIN XML:
+```
+##ACTIVITY MAIN XML:
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -57,8 +58,9 @@ Registeration Number : 212221040045
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
-###MAIN ACTIVITY JAVA:
+```
+##MAIN ACTIVITY JAVA:
+```
 package com.example.helloworld;
 
 import androidx.appcompat.app.AppCompatActivity;
