@@ -33,7 +33,7 @@ Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
 ```
-## ACTIVITY MAIN XML:
+## ACTIVITY_MAIN.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -59,7 +59,7 @@ Registeration Number : 212221040045
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-## MAIN ACTIVITY JAVA:
+## MAINACTIVITY.JAVA:
 ```
 package com.example.helloworld;
 
