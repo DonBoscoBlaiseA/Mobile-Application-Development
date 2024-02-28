@@ -107,7 +107,11 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-
+![Screenshot (201)](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/0d400f33-c97f-40d5-87a6-accd4f4590f7)
+![Screenshot (202)](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/4629345c-16bf-4229-82d7-8b82df17e93c)
+![Output 1](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/7378ba9b-19db-4389-8a7b-76bdd0053dd2)
+![Output 2](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/553a56a6-e76a-4606-a46f-4007753329ec)
+![Output 3](https://github.com/DonBoscoBlaiseA/Mobile-Application-Development/assets/140850829/c527aca9-be33-427d-9b3e-1840b201a66a)
 
 
 
