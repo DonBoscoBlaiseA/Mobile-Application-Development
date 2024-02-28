@@ -32,7 +32,7 @@ Program to print the text “Hello World”.
 Developed by: Don Bosco Blaise A
 Registeration Number : 212221040045
 */
-```
+
 ACTIVITY MAIN XML:
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -101,6 +101,8 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
+```
+
 
 ## OUTPUT
 
